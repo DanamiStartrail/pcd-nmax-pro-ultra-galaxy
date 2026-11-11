@@ -7,6 +7,12 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.26%2B-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-PIL-000000?style=flat-square&logo=python&logoColor=white)](https://python-pillow.org/)
+[![Live Demo](https://img.shields.io/badge/Demo_Aplikasi-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dant-latihan-aplication-engineer.streamlit.app/)
+
+## 🌐 Live Demo Aplikasi
+Kamu dapat mencoba langsung antarmuka dan eksperimen interaktif pengolahan citra digital kami secara *online* tanpa perlu melakukan instalasi lokal melalui tautan berikut:
+
+👉 **[Buka Aplikasi Streamlit PCD NMAX](https://dant-latihan-aplication-engineer.streamlit.app/)**
 
 ---
 
