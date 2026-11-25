@@ -12,7 +12,7 @@
 ## 🌐 Live Demo Aplikasi
 Kamu dapat mencoba langsung antarmuka dan eksperimen interaktif pengolahan citra digital kami secara *online* tanpa perlu melakukan instalasi lokal melalui tautan berikut:
 
-👉 **[Buka Aplikasi Streamlit PCD NMAX](https://dant-latihan-aplication-engineer.streamlit.app/)**
+👉 **[Buka Aplikasi Streamlit PCD NMAX](https://dant-latihan-aplication-engineer.streamlit.app/)**(Masih Prosess)
 
 ---
 
