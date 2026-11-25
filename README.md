@@ -1,12 +1,12 @@
 # 🍲 Klasifikasi Jenis Makanan Indonesia di Kantin (Kelompok NMAX)
 
 <!-- BADGES -->
-
 [![Streamlit App](https://img.shields.io/badge/Demo_Aplikasi-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://dant-latihan-aplication-engineer.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Model B](https://img.shields.io/badge/Model_B-MobileNetV2-009688?style=flat-square)](https://keras.io/api/applications/mobilenet/)
 
 Repositori utama Tugas Besar mata kuliah **Pengolahan Citra Digital (IF25-40410)** — Kelas RA, Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA). Proyek ini mengomparasikan pendekatan **Pengolahan Citra Klasik (Model A)** dan **Deep Learning (Model B — MobileNetV2)** dalam mengenali jenis makanan Indonesia.
 [Simulasi Aplikasi Demo Streamlit](https://nmax-demo-aplication.streamlit.app/)
