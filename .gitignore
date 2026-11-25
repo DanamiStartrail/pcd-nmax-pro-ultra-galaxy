@@ -1,5 +1,17 @@
 __pycache__/
 *.pyc
 venv/
+.venv/
 .env
 .ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+data/train/
+data/val/
+data/test/
+models/*.joblib
+models/*.pkl
+models/*.pickle
+models/*.h5
+models/*.keras
+models/*.pth
