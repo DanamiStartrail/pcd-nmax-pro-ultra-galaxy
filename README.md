@@ -9,6 +9,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 Repositori utama Tugas Besar mata kuliah **Pengolahan Citra Digital (IF25-40410)** — Kelas RA, Program Studi Teknik Informatika, Institut Teknologi Sumatera (ITERA). Proyek ini mengomparasikan pendekatan **Pengolahan Citra Klasik (Model A)** dan **Deep Learning (Model B — MobileNetV2)** dalam mengenali jenis makanan Indonesia.
+[Simulasi Aplikasi Demo Streamlit](https://nmax-demo-aplication.streamlit.app/)
 
 ---
 
